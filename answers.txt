@@ -1,0 +1,4 @@
+Q1: Why might we consider usign Git?
+
+Answer: It makes it convenient to share code when working on projects as a
+group.
